@@ -8,10 +8,10 @@ A tool for verifying whether a certain proof of a given sequent is valid or not.
 ## Version 1.0 
 ### Goal
 
-Whenever a user enter the premise in a given format, along with a sequent, the code checks for its validity.
+Whenever a users enter the premise in a given format, along with a sequent, the code checks for its validity.
 It basically checks for:
 
-*  And introduction,elimination
+*  And introduction, elimination
 *  Or introduction
 *  Implication elimination
 
