@@ -21,7 +21,9 @@ Program will help to check for the validity of proof for a given sequent.
 ## Development
 ### Releases
 
-Future version will incorporate the proof check for Modus Tollens(MT) and Or introduction.
+Future version will incorporate the proof check for:
+*  Modus Tollens(MT)
+*  Or introduction.
 
 
 ### Stable Release
