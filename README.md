@@ -1,6 +1,3 @@
-# sturdy-fortnight
-Sequent Proof Checker
-
 # Proof_Checker
 
 A tool for verifying whether a certain proof of a given sequent is valid or not. 
